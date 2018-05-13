@@ -65,7 +65,7 @@ function resetPos(area) {
  * @param {1} x - X tengely koorinátái 
  * @param {2} y - Y tengely koordinátái
  * a függvény megkeresi az adott terület legnagyobb, és legkisebb X/Y koordinátáit, és ezzel tölti fel a 
- * coordinates objektumot. Ezáltal, bárhol lehet a képernyőn a mozgatni kívánt reület.
+ * coordinates objektumot. Ezáltal, bárhol lehet a képernyőn a mozgatni kívánt terület.
  */
 function getCoords(x, y) {
     posArr.push(x);
