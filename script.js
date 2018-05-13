@@ -1,4 +1,4 @@
-let x = document.getElementById("area");
+"use strict";
 let num = 0;
 let num2 = 0;
 let xPrev = 0;
